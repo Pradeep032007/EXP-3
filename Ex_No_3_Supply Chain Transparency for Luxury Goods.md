@@ -64,7 +64,7 @@ Helps prevent counterfeit luxury goods.
 
 Teaches real-world supply chain use cases.
 
-#OUTPUT:
+# OUTPUT:
 
 ![WhatsApp Image 2025-11-11 at 8 34 23 PM](https://github.com/user-attachments/assets/2e68fe1c-2603-44fb-b541-5f17887249bc)
 
